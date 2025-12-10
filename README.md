@@ -147,7 +147,6 @@ I’m **Lebede Ngartera** — an AI & Data Strategist with a Ph.D. in Applied Ma
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [YouTube Lebede (Math)](https://www.youtube.com/channel/UC-vFiV3TTvlsWlWV92lkFQA) | Automated content for math education | Python, Dropbox, Heroku, Gmail API |
 | [Job Application Bot](https://github.com/lebede/JobApplicationBot) | Bot to streamline application processes | Python, MySQL, CI/CD, Gmail API |
 
 ---

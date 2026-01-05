@@ -1,8 +1,8 @@
 <h1 align="center" style="color:#00ADB5; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🚀 Welcome to My AI & Data Science Portfolio
+   Welcome to My AI & Data Science Portfolio
 </h1>
 <h3 align="center" style="color:#FF6EC7; font-style: italic; font-weight: 500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🚀 Transforming Data into Intelligence | Empowering Decisions with AI 🧠
+   Transforming Data into Intelligence | Empowering Decisions with AI 
 </h3>
 
 
@@ -25,7 +25,7 @@
 
 ---
 
-<h3 align="left">🧠 What Can AI & Data Science Do?</h3>
+<h3 align="left"> What Can AI & Data Science Do?</h3>
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I’m **Lebede Ngartera** — an AI & Data Strategist with a Ph.D. in Applied Ma
 
 ---
 
-### 🧠 Core Skills
+###  Core Skills
 
 - **AI/ML**: GPT, RAG (DPR, embeddings), NLP, Generative AI  
 - **Data Science**: Bayesian modeling, statistical learning, predictive analytics  
@@ -106,7 +106,7 @@ I’m **Lebede Ngartera** — an AI & Data Strategist with a Ph.D. in Applied Ma
 ### 🖥️ Open-Source Projects
 
 <table>
-<tr><th>🧠 Machine Learning Projects</th><th>📦 PyPi Packages by Lebede</th></tr>
+<tr><th> Machine Learning Projects</th><th>📦 PyPi Packages by Lebede</th></tr>
 <tr><td>
 
 > Real-world AI implementations in NLP, computer vision, forecasting, fraud detection, and healthcare.
@@ -143,7 +143,7 @@ I’m **Lebede Ngartera** — an AI & Data Strategist with a Ph.D. in Applied Ma
 
 ---
 
-### 🤖 Bots & Automation
+###  Bots & Automation
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
@@ -172,7 +172,7 @@ I’m **Lebede Ngartera** — an AI & Data Strategist with a Ph.D. in Applied Ma
 ### 🔍 Profile Summary
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebede&theme=dracula)
 
-### 🧠 Language Usage
+###  Language Usage
 ![Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lebede&theme=dracula)
 ![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lebede&theme=dracula)
 
